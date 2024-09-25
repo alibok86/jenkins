@@ -14,4 +14,5 @@
 Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-![alt text](https://github.com/alibok86/jenkins/tree/e7fbc84d8d8937667f7a15e6ca842963dbecb696/path/1.png)
+![screen1](https://github.com/alibok86/jenkins/blob/master/path/1.png)
+![screen1](https://github.com/alibok86/jenkins/blob/master/path/2.png)
