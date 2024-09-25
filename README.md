@@ -24,3 +24,7 @@
 Создайте новый проект pipeline.
 Перепишите сборку из задания 1 на declarative в виде кода.
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+![screen1](https://github.com/alibok86/jenkins/blob/master/path/3.png)
+![screen1](https://github.com/alibok86/jenkins/blob/master/path/4.png)
+![screen1](https://github.com/alibok86/jenkins/blob/master/path/5.png)
+
