@@ -16,3 +16,11 @@
 
 ![screen1](https://github.com/alibok86/jenkins/blob/master/path/1.png)
 ![screen1](https://github.com/alibok86/jenkins/blob/master/path/2.png)
+
+
+Задание 2
+Что нужно сделать:
+
+Создайте новый проект pipeline.
+Перепишите сборку из задания 1 на declarative в виде кода.
+В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
