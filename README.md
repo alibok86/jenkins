@@ -28,3 +28,13 @@
 ![screen1](https://github.com/alibok86/jenkins/blob/master/path/4.png)
 ![screen1](https://github.com/alibok86/jenkins/blob/master/path/5.png)
 
+Задание 3 Что нужно сделать:
+
+Установите на машину Nexus.
+Создайте raw-hosted репозиторий.
+Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
+Загрузите файл в репозиторий с помощью jenkins.
+![screen1](https://github.com/alibok86/jenkins/blob/master/path/6.png)
+![screen1](https://github.com/alibok86/jenkins/blob/master/path/7.png)
+
+
